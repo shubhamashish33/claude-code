@@ -6,13 +6,6 @@
 
 ## Research Context
 
-This repository is maintained by a **university student** studying:
-
-- software supply-chain exposure and build artifact leaks
-- secure software engineering practices
-- agentic developer tooling architecture
-- defensive analysis of real-world CLI systems
-
 This archive is intended to support:
 
 - educational study
